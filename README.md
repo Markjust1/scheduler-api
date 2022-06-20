@@ -20,7 +20,7 @@ PGPASSWORD=development
 PGPORT=5432
 ```
 
-## Seeding
+## Seedingde
 
 Run a the development server with `npm start` in the Host environment. We are only using vagrant for `psql` this week.
 
